@@ -31,10 +31,11 @@ def lasso_step
   puts "Now do this 7 more times!"
 end
 
-
-starting_stance
-base_footwork
-skip_step_left
-skip_step_right
-bob_the_reins
-lasso_step
+def gangnam_style
+  starting_stance
+  base_footwork
+  skip_step_left
+  skip_step_right
+  bob_the_reins
+  lasso_step
+end
