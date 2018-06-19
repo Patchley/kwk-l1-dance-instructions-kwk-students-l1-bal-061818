@@ -18,7 +18,7 @@ def skip_step_right
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
 end
-def bob_reins
+def bob_the_reins
   puts "Holding your arms out in front of you, straight and at chest level"
   puts "Cross your right wrist over your left and hold them together"
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
